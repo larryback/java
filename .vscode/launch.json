@@ -1,0 +1,91 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BooleanEx<First_Java_Coding>",
+            "request": "launch",
+            "mainClass": "chapter2.BooleanEx",
+            "projectName": "First_Java_Coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CharacterEx1<First_Java_Coding>",
+            "request": "launch",
+            "mainClass": "chapter2.CharacterEx1",
+            "projectName": "First_Java_Coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CharacterEx2<First_Java_Coding>",
+            "request": "launch",
+            "mainClass": "chapter2.CharacterEx2",
+            "projectName": "First_Java_Coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CharacterEx3<First_Java_Coding>",
+            "request": "launch",
+            "mainClass": "chapter2.CharacterEx3",
+            "projectName": "First_Java_Coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Constant<First_Java_Coding>",
+            "request": "launch",
+            "mainClass": "chapter2.Constant",
+            "projectName": "First_Java_Coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoubleEx1<First_Java_Coding>",
+            "request": "launch",
+            "mainClass": "chapter2.DoubleEx1",
+            "projectName": "First_Java_Coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoubleEx2<First_Java_Coding>",
+            "request": "launch",
+            "mainClass": "chapter2.DoubleEx2",
+            "projectName": "First_Java_Coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TypeInference<First_Java_Coding>",
+            "request": "launch",
+            "mainClass": "chapter2.TypeInference",
+            "projectName": "First_Java_Coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Variable1<First_Java_Coding>",
+            "request": "launch",
+            "mainClass": "chapter2.Variable1",
+            "projectName": "First_Java_Coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Variable2<First_Java_Coding>",
+            "request": "launch",
+            "mainClass": "chapter2.Variable2",
+            "projectName": "First_Java_Coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelloJava<First_Java_Coding>",
+            "request": "launch",
+            "mainClass": "hello.HelloJava",
+            "projectName": "First_Java_Coding"
+        }
+    ]
+}
