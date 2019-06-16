@@ -1,6 +1,6 @@
-package chapter2;
+package Chaptor4;
 
-public class Constant {
+public class SwitchCase {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
