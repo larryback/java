@@ -1,6 +1,6 @@
-package chapter2;
+package Chaptor4;
 
-public class ImplicitConversion {
+public class WhileExample1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
