@@ -1,6 +1,6 @@
-package operator;
+package Chaptor4;
 
-public class OperatorEx1 {
+public class NestedLoop1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
