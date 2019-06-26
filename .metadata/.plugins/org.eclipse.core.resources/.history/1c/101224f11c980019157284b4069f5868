@@ -6,8 +6,6 @@ public class Person {
 	int height;
 	double weight;
 	char gender;
-	boolean isMarried;
-	int age;
-	int numberOfChildren;
+	boolean married;
 
 }
