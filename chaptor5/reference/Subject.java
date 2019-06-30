@@ -1,10 +1,10 @@
-package Chaptor5;
+package reference;
 
 public class Subject {
 	String subjectName;
 	int score;
-	
-	public void setSubjectName(String name) {
+
+	public void setName(String name) {
 		subjectName = name;
 	}
 	
@@ -12,13 +12,12 @@ public class Subject {
 		return score;
 	}
 	
-	public int setScore(int score) {
-		return score;
+	public void setScore(int score) {
+		this.score = score;
 	}
 	
 	public String SubjectName() {
 		return subjectName;
 	}
 	
-
 }
