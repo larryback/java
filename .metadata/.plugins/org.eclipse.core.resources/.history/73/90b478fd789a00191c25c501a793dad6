@@ -1,7 +1,0 @@
-package Chaptor5;
-
-public class Subject {
-	String subjectName;
-	int scorePoint;
-
-}
